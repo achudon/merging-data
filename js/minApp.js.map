@@ -1,0 +1,1 @@
+{"version":3,"file":"minApp.js","sources":["appNg.js"],"names":["angular","module","controller","$scope","employees","pawneeEmployees","sortCol","searchString","sortBy","colName"],"mappings":";AAQA,YAEAA,SAAQC,OAAO,kBACVC,WAAW,qBAAsB,SAAU,SAASC,GAEjDA,EAAOC,UAAYC,gBACnBF,EAAOG,QAAU,WACjBH,EAAOI,aAAe,GAEtBJ,EAAOK,OAAS,SAASC,GACrBN,EAAOG,QAAUG"}
